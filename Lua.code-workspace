@@ -4,5 +4,8 @@
 			"path": "."
 		}
 	],
-	"settings": {}
+	"settings": {},
+	"extensions": {
+		"recommendations": ["github.vscode-pull-request-github","yinfei.luahelper","siegebell.prettify-symbols-mode","stkb.rewrap","gruntfuggly.todo-tree","tesoro.schedoost"]
+	}
 }
